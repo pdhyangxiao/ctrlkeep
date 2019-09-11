@@ -9,7 +9,7 @@ import os, subprocess
 #     for line in res.splitlines():
 #         print(line)
 
-#用subprocess库获取返回值。
+# 用subprocess库获取返回值。
 # while True:
 #     cwd = 'F:\isofile'
 #     cmd = input()
